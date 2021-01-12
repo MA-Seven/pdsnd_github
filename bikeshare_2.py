@@ -19,6 +19,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
+    # months and days short names are included
     months = ['january', 'jan', 'february', 'feb', 'march', 'mar', 'april', 'apr', 'may', 'june', 'jun','all']
     days = ['Monday','Mon' ,'Tuesday','Tue' ,'Wednesday','Wed' ,'Thursday','Thu' ,'Friday','Fri' ,'Sunday','Sun' ,'All']
 
