@@ -54,7 +54,7 @@ def get_filters():
             day = input('\nNOT correct value\nPlease enter the CORRECT name such as Monday or Mon, otherwise type all to show all the data.. ').title()
 
     xx = 7
-    print('\n','-*'*xx,'-Based on your choises of filters, see below stats-','*-'*xx,'\n')
+    print('\n','-*'*xx,'- Based on your choises of filters, see below stats -','*-'*xx,'\n')
 #     print('-'*40)
     return city, month, day
 
