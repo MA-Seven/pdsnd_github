@@ -13,3 +13,4 @@ bikeshare_2.py
 
 ### Credits
 Thanks to Udacity team and mentores for their great effort in preparing the matierals.
+Special thanks to Saurav for his clear explinaition
